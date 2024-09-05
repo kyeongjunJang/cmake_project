@@ -1,3 +1,7 @@
+# setting
+.vscode/
+# cmake
+build/
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
